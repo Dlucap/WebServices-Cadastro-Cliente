@@ -8,7 +8,6 @@ Requisitos de Software:
 - Situação atual poderá ser ‘Ativo’ ou ’Inativo’.
 - Todos os dados são obrigatórios.
 - A aplicação deve possibilitar Inclusão, Atualização e Remoção dos clientes da base.
-- Utilizar o maven (repositório para bibliotebas java).
 
 Tenho certeza que esse projeto não está de acordo com os padrões de programação existentes atualmente, existindo a possibilidade de melhorar a aplicação.
 
@@ -17,7 +16,7 @@ Tenho certeza que esse projeto não está de acordo com os padrões de programa�
 1. Downloads e Instalação da IDE para desenvolvimento em java de sua preferência, para esse projeto foi utilizado o NetBenas versão 8.2.
 >https://netbeans.org/downloads/index.html
 2. Importar e executar o projeto na IDE desejada.
->
+>https://codeload.github.com/Dlucap/WebServices-Cadastro-Cliente/zip/master
 3. Executar a aplicação
 
 
@@ -117,3 +116,4 @@ Script de criação do banco e tabela disponibilizado no arquivo Script_Banco_Ca
 - Utilizar de Threads para execução dos serviços.
 - Utilizar o Hibernate para comunicação com o banco de dados relacional.
 - Criar o front-end ou um aplicativo mobile para integração com a WS.
+- Utilizar o maven (repositório para bibliotebas java).
