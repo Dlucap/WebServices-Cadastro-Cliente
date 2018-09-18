@@ -109,7 +109,7 @@ Script de criação do banco e tabela disponibilizado no arquivo Script_Banco_Ca
 * No Banco de Dados:
 ![Testes realizados DELETE](/screenshots/MSSQL_DELETE.png?raw=true "Testes realizados DELETE")
 
-## Melhorias futuras:
+## Melhorias:
 - Validação das Url´s.
 - Validações dos dados.
 - Tratar exceções de usuário.
