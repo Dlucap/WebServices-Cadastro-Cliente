@@ -118,7 +118,6 @@ public class ClienteWS {
         return clienteDao.Atualizar(clienteBeans);
     }
 
-    /*https://www.tutorialspoint.com/restful/restful_methods.htm*/
     @DELETE
     @Consumes({"application/json"})
     @Path("Cliente/Excluir/{idCliente}")
