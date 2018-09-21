@@ -92,7 +92,7 @@ Script de criação do banco e tabela disponibilizado no arquivo Script_Banco_Ca
 * PUT/Cliente/InserirCliente
 ![Testes realizados PUT](/screenshots/SoapUI_PUT.png?raw=true "Testes realizados PUT")
 
-*No Banco de Dados:
+* No Banco de Dados:
 ![Testes realizados PUT](/screenshots/MSSQL_PUT.png?raw=true "Testes realizados PUT")
 
 
